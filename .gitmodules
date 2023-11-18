@@ -7,3 +7,6 @@
 [submodule "qa-automation-hrmodule-using-selenium"]
 	path = qa-automation-hrmodule-using-selenium
 	url = https://github.com/babangjoe/qa-automation-hrmodule-using-selenium.git
+[submodule "qa-manual"]
+	path = qa-manual
+	url = https://github.com/babangjoe/qa-manual.git
