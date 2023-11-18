@@ -4,3 +4,6 @@
 [submodule "qa-automation-hrmodule-using-katalon-studio"]
 	path = qa-automation-hrmodule-using-katalon-studio
 	url = https://github.com/babangjoe/qa-automation-hrmodule-using-katalon-studio.git
+[submodule "qa-automation-hrmodule-using-selenium"]
+	path = qa-automation-hrmodule-using-selenium
+	url = https://github.com/babangjoe/qa-automation-hrmodule-using-selenium.git
