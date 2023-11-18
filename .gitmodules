@@ -1,3 +1,6 @@
 [submodule "API_KatalonStudio"]
 	path = API_KatalonStudio
 	url = https://github.com/babangjoe/API_KatalonStudio.git
+[submodule "qa-automation-hrmodule-using-katalon-studio"]
+	path = qa-automation-hrmodule-using-katalon-studio
+	url = https://github.com/babangjoe/qa-automation-hrmodule-using-katalon-studio.git
