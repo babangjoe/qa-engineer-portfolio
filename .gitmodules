@@ -10,3 +10,6 @@
 [submodule "qa-manual"]
 	path = qa-manual
 	url = https://github.com/babangjoe/qa-manual.git
+[submodule "qa-web-automation-playwright"]
+	path = qa-web-automation-playwright
+	url = https://github.com/babangjoe/qa-web-automation-playwright.git
